@@ -291,12 +291,14 @@ border-top: 2px solid #FD3505;}
 
  .checkout-container   {width: 100%;
  }
-
+ul{ text-align: center;}
 li{
   font-size: 21px;
   font-family: 'Karla', sans-serif;
   list-style: none;
   text-align: center;
+ 
+
 }
 
 .footer-container{
