@@ -1,0 +1,56 @@
+
+
+
+
+
+
+body{
+  margin: 0 ;
+ }
+.galery-container2 {
+width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+flex-direction: row;
+justify-content: center;
+}
+
+
+.gal1 , .gal2, .gal3 ,.gal4,.gal5,.gal6,.gal7,.gal8,.gal9,.gal10,.gal11,.gal12 {
+
+  border-radius: 3px;
+ border: 1px solid #5A5A5A;
+  background-size:cover;
+  background-repeat:no-repeat;
+  width:500px;
+  height:500px;
+   background-position: center;
+   margin: 30px;
+}
+.gal1  {background-image: url('pic/1Pepperoni.jpg');}
+.gal2 {background-image: url('pic/2RomaPizza.jpg');}
+.gal3 {background-image: url('pic/3WineHouse.jpg');}
+.gal4 {background-image: url('pic/4GarlicCheese.jpg');}
+
+.gal5  {background-image: url('pic/5Diablo.jpg');}
+.gal6 {background-image: url('pic/6SpaghettiBolognese.jpg');}
+.gal7 {background-image: url('pic/7Fettuccini.jpg');}
+.gal8 {background-image: url('pic/8PenneWithPrawns.jpg');}
+.gal9  {background-image: url('pic/9Lasagna.jpg');}
+.gal10 {background-image: url('pic/10TiramisuCake.jpg');}
+.gal11 {background-image: url('pic/11SpongeCake.jpg');}
+.gal12 {background-image: url('pic/12ChiffonCake.jpg');}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
